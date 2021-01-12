@@ -10,7 +10,6 @@ Here are some ideas to get you started-->
 - 👯 I’m looking to collaborate on exciting projects and Hackathons
 - 🤔 I’m looking for help with backend development
 - 💬 Ask me anything ,XD
-- 😄 Pronouns: Student & Developer
 - ⚡ Fun fact: I can sleep anytime ,anywhere.
 - 📫 How to reach me: <br> [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/sanskrita.saha.1) 
 [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/sans.krita125/)

@@ -38,7 +38,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"> 
 </td>
 
 <td align="center" width="20%">
@@ -86,7 +86,7 @@
 </tbody>
 </table>
 
-<strong><h3> 🌟 Top Lanaguages </h3></strong>
+<strong><h3> 🌟 Top Languages </h3></strong>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskrita2001&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <strong><h3> 🌟 GitHub Stats </h3></strong>

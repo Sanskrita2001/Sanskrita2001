@@ -101,5 +101,5 @@
 <a href =https://www.instagram.com/sans.krittta_512/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 <a href = https://www.facebook.com/sanskrita.saha.1/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg height='45' weight='45'/></a>
 <br>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=cryptus-neoxys.cryptus-neoxys" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Sanskrita2001.Sanskrita2001" alt="visitor badge"/>
 </p>

@@ -9,9 +9,9 @@
 * Pronouns: She
 * Fun fact: <em>I can sleep anytime ,anywhere.</em>
 
-## Tech Stack :computer:
+<h2 align="center"> Tech Stack :computer: </h2>
 <br>
-<table>
+<table align="center">
 <tbody>
  <tr>
 <td align="center" width="20%">
@@ -86,7 +86,7 @@
 </tbody>
 </table>
 
-<strong><h3> 🌟 Top Languages </h3></strong>
+<strong><h3 align="center"> 🌟 Top Languages </h3></strong>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskrita2001&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <strong><h3> 🌟 GitHub Stats </h3></strong>

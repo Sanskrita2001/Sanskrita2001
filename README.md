@@ -86,11 +86,10 @@
 </tbody>
 </table>
 
-<p align="center">
 <strong><h3> 🌟 Top Languages </h3></strong>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskrita2001&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-<strong><h3  align="center"> 🌟 GitHub Stats </h3></strong>
+
+<strong><h3> 🌟 GitHub Stats </h3></strong>
 <a align="center" href="https://github.com/Sanskrita2001">
 <img width="49%"  align="center" src="https://github-readme-stats.vercel.app/api?username=Sanskrita2001&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 </a>

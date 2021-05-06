@@ -9,9 +9,9 @@
 * Pronouns: She
 * Fun fact: <em>I can sleep anytime ,anywhere.</em>
 
-<h2 align="center"> Tech Stack :computer: </h2>
+<h2> Tech Stack :computer: </h2>
 <br>
-<table align="center">
+<table>
 <tbody>
  <tr>
 <td align="center" width="20%">

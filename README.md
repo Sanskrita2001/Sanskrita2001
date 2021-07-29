@@ -1,6 +1,6 @@
 <h1 align="center"> Hello There 👋 </h1>
 
-* I am [Sanskrita Saha](https://www.linkedin.com/in/sanskrita-saha-277018191/) :blush:	 . Currently I am a Second year student from VIT Vellore in Computer Science with specialization in Bioinformatics
+* I am [Sanskrita Saha](https://www.linkedin.com/in/sanskrita-saha-277018191/) :blush:	 . Currently I am a Pre Final Year student from VIT Vellore in Computer Science with specialization in Bioinformatics
 * I’m usually/mostly/currently working on Full Stack / MERNStack Web Development.
 * I’m currently learning DSA and competetive coding.
 * I’m looking to collaborate on exciting projects and Hackathons

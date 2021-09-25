@@ -94,7 +94,7 @@
 <img width="49%"  align="center" src="https://github-readme-stats.vercel.app/api?username=Sanskrita2001&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 </a>
 <a align="center" href="https://github.com/Sanskrita2001">
-<img width="49%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskrita2001" alt="Git Stats" />
+<img width="49%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskrita2001&theme=radical" alt="Git Stats" />
 </a>
 
 <h2 align='center'>Connect with me  📫 </h2>

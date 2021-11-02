@@ -15,70 +15,66 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>HTML5</center></b></span> 
+<!-- <span><b><center>HTML5</center></b></span>  -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>CSS3</center></b></span> 
+<!-- <span><b><center>CSS3</center></b></span>  -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Bootstrap</center></b></span> 
+<!-- <span><b><center>Bootstrap</center></b></span>  -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"> 
 </td>
-</tr>
-
-<tr>
+ 
 <td align="center" width="20%">
-<span><b><center>React JS</center></b></span> 
+<!-- <span><b><center>React JS</center></b></span>  -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Javascript</center></b></span> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"> 
-</td>
+</td>  
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Figma</center></b></span> 
+<!-- <span><b><center>Figma</center></b></span>  -->
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Heroku</center></b></span> 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"> 
+<!-- <span><b><center>Git</center></b></span>  -->
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"> 
 </td>
 
-
-
 <td align="center" width="20%">
-<span><b><center>Java</center></b></span> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60"> 
+<!-- <span><b><center>Javascript</center></b></span>  -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"> 
+</td>
+ 
+ <td align="center" width="20%">
+<!-- <span><b><center>Heroku</center></b></span>  -->
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
+<!-- <span><b><center>Java</center></b></span>  -->
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60"> 
+</td>
+ 
+<td align="center" width="20%">
+<!-- <span><b><center>MongoDB</center></b></span>  -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>NodeJs</center></b></span> 
+<!-- <span><b><center>NodeJs</center></b></span>  -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
+<!-- <span><b><center>C++</center></b></span>  -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"> 
 </td>
 </tr>
